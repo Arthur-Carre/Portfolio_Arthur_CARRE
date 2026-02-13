@@ -1,0 +1,10 @@
+.navigation {
+    background-color: blue;
+    width: 12.5vw;
+    height: 100vh;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
