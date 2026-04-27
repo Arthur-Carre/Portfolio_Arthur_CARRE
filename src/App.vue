@@ -1,11 +1,11 @@
 <template>
     <div class="row">
         <Navigation />
-        <Project />
+        <Title />
     </div>
 </template>
 
 <script setup>
 import Navigation from './components/Navigation.vue'
-import Project from './components/projects/Project.vue'
+import Title from './components/projects/Title.vue'
 </script>
