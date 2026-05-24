@@ -210,6 +210,12 @@
         align-items: flex-start;
     }
 
+    .title {
+        min-height: auto;
+        padding: 4vh 4vw;
+    }
+
+
     .photo {
         width: 30vw;
         height: 30vw;

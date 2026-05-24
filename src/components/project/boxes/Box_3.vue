@@ -4,8 +4,8 @@
             <div class="component_2">{{ component_2 }}</div>
             <div class="component_3">{{ component_3 }}</div>
         </div>
-        <div :style="{ backgroundImage: `url('/${component_4}')` }" class="component_4"></div>
-        <div :style="{ backgroundImage: `url('/${component_5}')` }" class="component_5"></div>
+        <div :style="{ backgroundImage: `url('/Portfolio_Arthur_CARRE/${component_4}')` }" class="component_4"></div>
+        <div :style="{ backgroundImage: `url('/Portfolio_Arthur_CARRE/${component_5}')` }" class="component_5"></div>
     </div>
 </template>
 

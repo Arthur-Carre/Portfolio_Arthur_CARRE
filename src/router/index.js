@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import Product_Design_Hackathon from '../components/project/project_pages/Product_Design_Hackathon.vue'
 import Alice_in_Wonderland from '../components/project/project_pages/Alice_in_Wonderland.vue'
 import Hack_And_Juice from '../components/project/project_pages/Hack_And_Juice.vue'
@@ -12,7 +12,7 @@ import Contact from '../components/pages/Contact.vue'
 import Home from '../components/pages/Home.vue'
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHashHistory(),
   routes: [
     {
       path: '/',

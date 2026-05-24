@@ -2,7 +2,7 @@
     <div class="component">
         <div class="component_1">
             <div class="component_2">{{ component_2 }}</div>
-            <div :style="{ backgroundImage: `url('/${component_3}')` }" class="component_3"></div>
+            <div :style="{ backgroundImage: `url('/Portfolio_Arthur_CARRE/${component_3}')` }" class="component_3"></div>
         </div>
         <div class="component_4">{{ component_4 }}</div>
     </div>

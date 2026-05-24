@@ -1,11 +1,11 @@
 <template>
     <div class="component">
-        <div :style="{ backgroundImage: `url('/${component_1}')` }" class="component_1"></div>
+        <div :style="{ backgroundImage: `url('/Portfolio_Arthur_CARRE/${component_1}')` }" class="component_1"></div>
         <div class="component_2">
             <div class="component_3"><span>{{component_3}}</span></div>
             <div class="component_4">
                 <div class="component_5">{{component_5}}</div>
-                <div :style="{ backgroundImage: `url('/${component_6}')` }" class="component_6"></div>
+                <div :style="{ backgroundImage: `url('/Portfolio_Arthur_CARRE/${component_6}')` }" class="component_6"></div>
             </div>
         </div>
     </div>
