@@ -9,10 +9,10 @@
         />
 
         <Box_3
-            component_2="L'analyse exploratoire commence par un nettoyage rigoureux du dataset : valeurs manquantes, doublons, conversions de types et feature engineering - extraction du mois, du jour de semaine, du type de train. Le dataset nettoyé est exporté pour alimenter directement la phase de modélisation."
+            component_2="L'analyse exploratoire commence par un nettoyage rigoureux du dataset : valeurs manquantes, doublons, conversions de types et feature engineering extraction du mois, du jour de semaine, du type de train. Le dataset nettoyé est exporté pour alimenter directement la phase de modélisation."
             component_3="Plusieurs visualisations révèlent les patterns cachés dans les retards : distributions par gare, par plage horaire, par type de train, corrélations entre variables. Chaque graphique est accompagné d'une interprétation écrite pour guider même un lecteur non technique."
             component_4="TARDIS-2.jpg"
-            component_5="Un modèle de régression prédit la durée du retard en minutes à partir des caractéristiques du trajet - gare de départ, gare d'arrivée, durée du trajet, jour."
+            component_5="Un modèle de régression prédit la durée du retard en minutes à partir des caractéristiques du trajet gare de départ, gare d'arrivée, durée du trajet, jour."
         />
 
         <Box_4

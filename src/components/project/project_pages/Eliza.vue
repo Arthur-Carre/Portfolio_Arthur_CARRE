@@ -19,7 +19,7 @@
             component_1="Chaque fonctionnalité a été pensée pour maximiser l'impact business : acquisition, rétention, automatisation ou communication. Les KPIs et le ROI sont clairement identifiés et illustrés pour démontrer la valeur concrète apportée à l'entreprise cible."
             component_3="ELIZA-3.jpg"
             component_4="Une landing page soignée met en avant l'identité visuelle du chatbot, ses cas d'usage, ses fonctionnalités clés et sa valeur ajoutée. Le produit doit convaincre - techniquement, visuellement et commercialement."
-            component_5="Le projet ELIZA n'est pas qu'un exercice technique - c'est un produit."
+            component_5="Le projet ELIZA n'est pas qu'un exercice technique c'est un produit."
         />
 
     </div>

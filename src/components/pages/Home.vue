@@ -55,7 +55,6 @@
             <div class="section_label font_white_3">PHILOSOPHIE</div>
             <div class="description font_white_1">
                 Je suis quelqu'un qui cherche à bien faire les choses et à avoir le résultat le plus propre possible.
-                Cela peut s'avérer être un défaut dans certaines situations, et c'est un problème que j'essaie de pallier.
                 Je suis quelqu'un de calme, qui sait s'adapter aux situations. Je suis respectueux et sais reconnaître mes erreurs.
             </div>
         </div>
@@ -73,7 +72,7 @@
             <div class="description font_white_1">
                 Cette première année à Epitech a été une montée en compétences rapide et intensive.
                 J'ai débuté avec des bases solides en HTML, CSS et JavaScript, et j'ai progressivement élargi mon champ de compétences vers Vue, React, Python et Docker.
-                Chaque projet m'a appris quelque chose de nouveau - pas seulement techniquement, mais aussi dans ma façon d'organiser mon travail, de collaborer en équipe et de livrer quelque chose de fonctionnel dans un temps contraint.
+                Chaque projet m'a appris quelque chose de nouveau, pas seulement techniquement, mais aussi dans ma façon d'organiser mon travail, de collaborer en équipe et de livrer quelque chose de fonctionnel dans un temps contraint.
                 Je suis passé d'un développeur qui code pour que ça marche, à quelqu'un qui réfléchit à comment bien faire les choses.
             </div>
         </div>
