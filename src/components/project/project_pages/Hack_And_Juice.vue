@@ -13,13 +13,13 @@
             component_2="L'approche adoptée couvre volontairement un large spectre de catégories pour ne pas se cantonner à un seul vecteur d'attaque. Injection SQL, Cross-Site Scripting, contournement d'authentification, mauvaises configurations, fuites de données sensibles chaque technique explorée renforce une compétence distincte."
             component_3="Les outils mobilisés varient selon les challenges : Burp Suite pour l'interception et la manipulation des requêtes HTTP des injections, ainsi que savoir directement interagir avec la console."
             component_4="JU-2.jpg"
-            component_5="Au-delà du score, l'objectif est de comprendre chaque faille en profondeur - pour être capable de la reproduire, de l'expliquer simplement et de proposer des corrections concrètes. La présentation inclut une démonstration live et une session de questions techniques approfondies."
+            component_5="Au-delà du score, l'objectif est de comprendre chaque faille en profondeur pour être capable de la reproduire, de l'expliquer simplement et de proposer des corrections concrètes. La présentation inclut une démonstration live et une session de questions techniques approfondies."
         />
 
         <Box_1
             component_1="JU-3.jpg"
             component_3="OWASP - PENTEST - INJECTION - XSS - BURP SUITE - SQLMAP - OSINT - CTF - SÉCURITÉ OFFENSIVE"
-            component_5="Ce projet a permis de développer une vraie culture de la sécurité offensive : identifier une surface d'attaque, exploiter méthodiquement une vulnérabilité, évaluer son impact réel et proposer des remédiations adaptées - des compétences directement transposables en contexte professionnel."
+            component_5="Ce projet a permis de développer une vraie culture de la sécurité offensive : identifier une surface d'attaque, exploiter méthodiquement une vulnérabilité, évaluer son impact réel et proposer des remédiations adaptées des compétences directement transposables en contexte professionnel."
         />
 
     </div>
