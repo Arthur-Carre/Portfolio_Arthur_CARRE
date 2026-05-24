@@ -1,11 +1,26 @@
 <template>
-    <div class="row">
-        <Navigation />
-        <Title />
+    <div class="column">
+        <Horizontal_navigation />
+        <div class="row">
+            <Vertical_navigation />
+            <RouterView />
+        </div>
     </div>
 </template>
 
 <script setup>
-import Navigation from './components/Navigation.vue'
-import Title from './components/projects/Title.vue'
+import Horizontal_navigation from './components/Horizontal_navigation.vue'
+import Vertical_navigation from './components/Vertical_navigation.vue'
 </script>
+
+<style scoped>
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+</style>
