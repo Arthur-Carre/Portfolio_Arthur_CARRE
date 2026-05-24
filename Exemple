@@ -1,0 +1,32 @@
+<Box_1
+    component_1="image.png"
+    component_3="Mon texte qui défile"
+    component_5="Mon texte normal"
+    component_6="image2.png"
+/>
+
+<Box_2
+    component_2="Mon texte en haut"
+    component_3="image.png"
+    component_4="Mon texte à droite"
+/>
+
+<Box_3
+    component_2="Mon texte gauche haut"
+    component_3="Mon texte gauche bas"
+    component_4="image.png"
+    component_5="Mon texte droite"
+/>
+
+<Box_4
+    component_1="Mon texte qui défile"
+    component_3="image.png"
+    component_4="Mon texte en bas"
+/>
+
+<Box_5
+    component_1="Mon texte gauche"
+    component_3="image.png"
+    component_4="Mon texte bas centre"
+    component_5="Mon texte droite"
+/>
