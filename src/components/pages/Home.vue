@@ -45,7 +45,7 @@
                     <div class="parcours_date font_white_3">2024 - 2025</div>
                     <div class="parcours_description">
                         <div class="parcours_title font_white_1">Baccalauréat</div>
-                        <div class="parcours_subtitle font_white_2">Mention Très Bien - Spécialité NSI & Maths</div>
+                        <div class="parcours_subtitle font_white_2">Spécialité NSI & Maths</div>
                     </div>
                 </div>
             </div>
