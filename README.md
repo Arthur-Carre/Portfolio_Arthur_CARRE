@@ -1,38 +1,46 @@
-# .
+# Portfolio — Arthur Carré
 
-This template should help get you started developing with Vue 3 in Vite.
+Portfolio personnel développé avec Vue 3 et Vite, présentant mes projets, compétences et parcours.
 
-## Recommended IDE Setup
+## Stack technique
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Vue 3
+- Vite
+- Vue Router
+- CSS natif (responsive, animations scroll)
 
-## Recommended Browser Setup
-
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+## Installation
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+## Lancement en développement
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Build de production
 
 ```sh
 npm run build
 ```
+
+## Déploiement
+
+```sh
+npm run deploy
+```
+
+## Pages
+
+- `/` — Présentation, compétences, parcours, philosophie
+- `/projects` — Liste de tous les projets
+- `/projects/:nom` — Page détaillée de chaque projet
+- `/contact` — Formulaire de contact et liens
+
+## Déploiement en ligne
+
+Site accessible à l'adresse :
+**https://arthur-carre.github.io/Portfolio_Arthur_CARRE/**
